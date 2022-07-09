@@ -43,6 +43,7 @@ Através de uma reunião em sala e em reunião virtual pelo Discord no dia 04/07
 |Versão|Data|Descrição|Autor|Revisor|
 |------|----|:---------:|-----|-----|
 |1.0|09/07/2022|Criado pagina e Adicionando os tópicos e arquivos|[Levi Queiroz](LeviQ27)||
+|1.1|09/07/2022|Alterando pasta do arquivo|[Levi Queiroz](LeviQ27)||
 
 <br>
 
