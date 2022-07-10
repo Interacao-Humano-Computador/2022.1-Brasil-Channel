@@ -1,4 +1,10 @@
-site_name: My Docs
+site_name: Brasil Channel
+
+nav:
+    - Inicio: 'index.md'
+    - Sites_Avaliados:
+        - 'Sites Avaliados': './docs/sites_avaliados/sites_avaliados.md'
+
 
 nav:
     - Inicio: 'index.md'
